@@ -3,4 +3,3 @@
  */
 
 export * from './lib/easy-translations.service';
-export * from './lib/easy-translations.component';

@@ -1,12 +1,19 @@
 {
   "name": "ngx-easy-translations",
-  "version": "0.0.1",
+  "version": "1.0.1",
+  "author": "Fernando Maldonado",
+  "description": "Angular wrapper for Easy Translations",
   "peerDependencies": {
     "@angular/common": "^17.2.0",
     "@angular/core": "^17.2.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
+  },
+  "peerDependenciesMeta": {
+    "easy-translations-core": {
+      "optional": false
+    }
   },
   "sideEffects": false
 }
